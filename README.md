@@ -10,4 +10,4 @@ Finally, I performed analysis on the Coffe House coupons. In this analysis I fou
 Looking at the larger dataset, it seems like coupons directed at users who frequently visit places similar to the coupon's location are more likely to be accepted.
 
 Below is a link to the Jupyter Notebook:
-(Coupon-Dataset-Analysis.ipynb)
+(https://github.com/Mikeacino/Coupon-Dataset-Analysis/blob/main/Coupon%20Dataset%20Analysis.ipynb)
